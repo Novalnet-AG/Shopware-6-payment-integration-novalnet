@@ -30,7 +30,7 @@ Shopware 6 is the next generation shop system based on advanced hook system. Wit
 ## Compatibility
 Shopware 6 payment plugin is compatible with below technical capabilities. 
 
-- [x]	Shopware versions 6.6.0.0 - 6.6.1.0
+- [x]	Shopware versions 6.6.0.0 - 6.6.1.2
 - [x]	Linux based OS with Apache 2.2 or 2.4
 - [x]	PHP 7.2.0 or higher
 - [x]	MySQL 5.7 or higher
@@ -38,10 +38,10 @@ Shopware 6 payment plugin is compatible with below technical capabilities.
 ## Supported payment methods
 
 -	Direct Debit SEPA
-- 	Direct Debit ACH
+- Direct Debit ACH
 -	Credit/Debit Cards
-- 	Apple Pay
-- 	Google Pay
+- Apple Pay
+- Google Pay
 -	Invoice
 -	Prepayment
 -	Invoice with payment guarantee
@@ -55,17 +55,17 @@ Shopware 6 payment plugin is compatible with below technical capabilities.
 -	Przelewy24
 -	eps
 -	PayPal
-- 	MB Way
+- MB Way
 -	PostFinance Card
 -	PostFinance E-Finance
 -	Bancontact
 -	Multibanco
-- 	Online bank transfer
+- Online bank transfer
 -	Alipay
-- 	WeChat Pay
-- 	Trustly
-- 	Blik
-- 	Payconiq
+- WeChat Pay
+- Trustly
+- Blik
+- Payconiq
 
 ## Installation via Composer
 
